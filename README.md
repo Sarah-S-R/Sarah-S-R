@@ -4,6 +4,7 @@ I'm Sarah, a geologist with a unique blend of business acumen and long standing 
 
 **About Me**
 🌎**Geologist:** My academic foundation lies in the Earth Sciences, where I have deep experience working in the mineral exploration industry.
+<br>
 📈**Busines:** I am also the holder of a bachelor of business degree, and apply these skills and concepts in my work on a daily basis. 
 💻**Aspiring Developer:** I'm very focused on the digital world and emerging technologies and the ways in which it can impart purposeful and positive change for the world. I'm excited to leverage my diverse background to bring innovative solutions to life.
 🌱**Currently Learning:** HTML, CSS, and Javascript
