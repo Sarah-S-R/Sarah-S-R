@@ -1,6 +1,6 @@
 ### Hello there! 👋, Sarah Ryan
 
-![Geologist/Entreprebeur in the Making]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Sarah-S-R/Sarah-S-R/blob/main/README.md))
+![Geologist/Entreprebeur in the Making]((https://github.com/Sarah-S-R/Sarah-S-R/blob/main/README.md))
 
 I'm Sarah, a geologist with a unique blend of business acumen and a long standing passion for technology. Currently I'm on an exciting journey as a student at Get Coding, where I'm diving headfirst into the world of software development.
 
