@@ -20,3 +20,5 @@ I'm Sarah, a geologist with a unique blend of business acumen and a long standin
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
 
 </div>
+
+![Profile views](https://gpvc.arturio.dev/Sarah-S-R)  
