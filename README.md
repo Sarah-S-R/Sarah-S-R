@@ -8,9 +8,9 @@ I'm a geologist with a unique blend of business acumen and a long standing passi
 <br>
 🌎**Geologist:** My academic foundation lies in the Earth Sciences, where I have deep experience working in the mineral exploration industry.
 <br>
-📈**Busines:** I have a business degree, and apply these skills and concepts in my work on a daily basis.
+📈**Business:** I have a business degree, and apply these skills and concepts in my work on a daily basis.
 <br>
-💻**Aspiring Developer:** I'm very focused on the digital world, emerging technologies and the ways in which it can impart purposeful and positive change. I'm excited to leverage my diverse background to bring innovative solutions to life.
+💻**Aspiring Developer:** I'm focused on the digital world, emerging technologies and the ways in which it can impart purposeful and positive change. I'm excited to leverage my diverse background to bring innovative solutions to life.
 <br>
 🌱**Currently Learning:** HTML, CSS, and JS
 
