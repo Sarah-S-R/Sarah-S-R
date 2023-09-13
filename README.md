@@ -12,7 +12,6 @@ I'm Sarah, a geologist with a unique blend of business acumen and a long standin
 <br>
 🌱**Currently Learning:** HTML, CSS, and Javascript
 
-![Profile views](https://gpvc.arturio.dev/Sarah-S-R)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-S-R)](https://github.com/anuraghazra/github-readme-stats)
 
