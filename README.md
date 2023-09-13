@@ -2,7 +2,7 @@
 
 I'm Sarah, a geologist with a unique blend of business acumen and a long standing passion for technology. Currently I'm on an exciting journey as a student at Get Coding, where I'm diving headfirst into the world of software development.
 
-**About Me**
+##**About Me**##
 <br>
 🌎**Geologist:** My academic foundation lies in the Earth Sciences, where I have deep experience working in the mineral exploration industry.
 <br>
@@ -13,3 +13,5 @@ I'm Sarah, a geologist with a unique blend of business acumen and a long standin
 🌱**Currently Learning:** HTML, CSS, and Javascript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-S-R)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarah-S-R)  
