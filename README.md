@@ -10,7 +10,7 @@ I'm Sarah, a geologist with a unique blend of business acumen and a long standin
 <br>
 💻**Aspiring Developer:** I'm very focused on the digital world, emerging technologies and the ways in which it can impart purposeful and positive change. I'm excited to leverage my diverse background to bring innovative solutions to life.
 <br>
-🌱**Currently Learning:** HTML, CSS, and Javascript
+🌱**Currently Learning:** HTML, CSS, and JS
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-S-R)](https://github.com/anuraghazra/github-readme-stats)
