@@ -1,8 +1,8 @@
-### Hello there! 👋, Sarah Ryan
+### Hello there! 👋, Sarah here
 
 ### Entrepreneur in the making
 
-I'm Sarah, a geologist with a unique blend of business acumen and a long standing passion for technology. Currently I'm on an exciting journey as a student at Get Coding, where I'm diving headfirst into the world of software development.
+I'm a geologist with a unique blend of business acumen and a long standing passion for technology. Currently I'm on an exciting journey as a student at Get Coding, where I'm diving headfirst into the world of software development.
 
 **About Me**
 <br>
