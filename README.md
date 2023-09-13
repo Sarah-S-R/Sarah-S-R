@@ -16,6 +16,7 @@ I'm Sarah, a geologist with a unique blend of business acumen and a long standin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-S-R)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="social-icons">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarah-S-R)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sarah-s-ryan/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarah-S-R) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sarah-s-ryan/)  
 
 </div>
