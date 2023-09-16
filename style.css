@@ -2,6 +2,8 @@
 h1{
     text-align: center;
     font-family: sans-serif, Arial, Helvetica, sans-serif;
+    margin-bottom: 5%;
+    
 }
 
 
@@ -9,19 +11,25 @@ dl{
     font-family: sans-serif, Arial, Helvetica, sans-serif;
     font-style: normal;
     font-size: medium;
-    
-   
+    padding: 0.5em;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 15%;
+     
 }
+
 dt {
-    float: left;
     width: 100px;
-    padding: 2px 4px;
+    padding: 4px 8px;
     font-weight: bold;
-    
+    text-align: left;
+    margin-bottom: 1%;
+       
   }
   dd {
-    float: right;
-    margin: 10;
-    padding: 0 0 0.5em 0;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 2.5%;
+    
     
   }
