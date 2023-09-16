@@ -9,9 +9,8 @@
 }
 
 .git-image {
-    padding-block: 7px;
-
-
+    padding: 30px;
+    width: 80px;
 }
 
 
@@ -19,8 +18,6 @@ h1 {
     text-align: center;
     font-family: sans-serif, Arial, Helvetica, sans-serif;
     padding-top: 10px;
-    margin-left: 15%;
-    margin-right: 15%
 }
 
 
@@ -52,9 +49,14 @@ dd {
 }
 
 .footer {
+    background-color: rgba(241, 226, 15, 0.50);
+    height: 24px;
     font-family: sans-serif;
-    text-align: center padding-left: 0.5em;
+    text-align: center;
     background-size: cover;
+}
 
-
+p {
+    padding-top: 6px;
+    padding-bottom: 6px
 }
